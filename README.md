@@ -82,7 +82,8 @@ If there is any error in the system, the response will be:
     "status": "Error: <error_message>"
 }
 System Architecture
-![image](https://github.com/user-attachments/assets/40a3f991-a6bf-4b2d-bad8-e86daa68bb60)
+![image](https://github.com/user-attachments/assets/3a782d8e-65d1-4da7-b4c8-21b9f3a55c0e)
+
 
 
 # How it Works
@@ -114,12 +115,8 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app --bind 0.0.0.0:8000
 
 All Set the Api will return the response 
 
-![image](https://github.com/user-attachments/assets/0025a051-4986-4b1b-835b-bebf842fb0b0)
-
-
-![image](https://github.com/user-attachments/assets/11213f88-a2b1-423b-860c-c519434e6ea3)
-
-
-![image](https://github.com/user-attachments/assets/ce30f840-04e4-4bef-9d2b-14aa188c7b6e)
+![image](https://github.com/user-attachments/assets/850c8d12-ac37-4c0e-a7b1-4ebbbc9588d7)
+![image](https://github.com/user-attachments/assets/39433d74-6401-467a-9553-1b21dacea601)
+![image](https://github.com/user-attachments/assets/71534e20-0249-485b-a4e8-c570abd18286)
 
 
